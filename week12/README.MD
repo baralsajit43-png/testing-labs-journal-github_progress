@@ -13,7 +13,11 @@ First, choose:
 
 ## 1) Executive summary (≈150 words)
 *Give one‑sentence findings for (a) the data‑centre operator or (b) the digital platform. State the single most impactful improvement you recommend to each, with one reason why it would help.*
+(a) Data-centre Operator
 
+Finding: The data centre consumes large amounts of electricity continuously, making energy efficiency and carbon intensity key environmental impacts.
+
+Most impactful improvement: Increase the use of renewable energy and carbon-aware workload scheduling, because it directly reduces the carbon emissions associated with powering servers and cooling systems.
 ---
 
 ## 2) Case A — Data‑centre operator: <Operator name>
